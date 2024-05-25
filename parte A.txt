@@ -1,0 +1,4 @@
+La mas efectiva seria la clase HashMap ya que es una estructura de datos basada en tabla hash que proporciona un tiempo constante en
+promedio para operaciones básicas como inserción, eliminación y búsqueda. En este caso, necesitas realizar un seguimiento de las frecuencias de ocurrencia de las palabras,
+y HashMap es ideal para esto porque permite almacenar pares clave-valor. Las palabras pueden ser las claves y las frecuencias de ocurrencia pueden ser los valores asociados.
+Además, HashMap no permite duplicados, por lo que es perfecto para contar las frecuencias de palabras únicas en un libro.
